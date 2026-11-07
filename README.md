@@ -1,9 +1,11 @@
 # WIndows IR Camera Viewer
 
-a lightweight Windows utility built with PowerShell and WinForms that allows you to view and interact with your laptop's built-in infrared (Windows Hello) camera.
+A lightweight Windows utility built with PowerShell and WinForms that allows you to view and interact with your laptop's built-in infrared (Windows Hello) camera.
 
+## App preview:
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/7503291c-4006-468f-b5da-57fe8af1b0bc" />
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 | :--- | :--- |
@@ -19,7 +21,10 @@ a lightweight Windows utility built with PowerShell and WinForms that allows you
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 1. **Operating System:** Windows 10 / 11 with an integrated IR camera (Windows Hello capable).
 3. *(Optional)* **FFmpeg:** Required only for video recording (`winget install Gyan.FFmpeg`).
+
+## Privacy
+All data stored locally
